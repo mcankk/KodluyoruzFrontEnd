@@ -1,1 +1,1 @@
-# Kodluyoruz Front End Eğitimi HTML İlk Ödev
+# Kodluyoruz Front End Eğitimi Ödevler
