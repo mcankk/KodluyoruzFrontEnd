@@ -1,0 +1,59 @@
+.img-center{
+    display: block;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.container{
+    width: 2300px;
+    height: 90px;
+    background-color: #EEEEEE;
+    margin: auto;
+    position: relative;
+}
+
+.center-text{
+    text-align: center;
+    block-size: 5px;
+}
+
+input{
+    display: block;
+    margin:  auto;
+    width: 250px;
+}
+
+.btn-left {
+    float: left;
+    margin-left: 1052px;
+    margin-right: 3px;
+}
+
+.div-left {
+    background-color: #7EE5DA;
+    width: 1000px;
+    height: 85px;
+    margin-left: 122px;
+    float: left;
+    text-align: center;
+}
+
+.div-middle {
+    background-color: #70CCC2;
+    width: 300px;
+    height: 85px;
+    margin-left: 1125px;
+    text-align: center;
+}
+
+.div-right  {
+    background-color: #62B3AA;
+    width: 992px;
+    height: 85px;
+    margin-left: 1428px;
+    margin-top: -85px;
+    text-align: center;
+}
+
