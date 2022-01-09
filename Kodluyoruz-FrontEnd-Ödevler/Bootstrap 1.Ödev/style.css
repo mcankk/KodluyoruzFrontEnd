@@ -1,0 +1,55 @@
+body:not(header){
+    background-color: #E9ECEF;
+}
+
+header ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+ }
+
+header li{
+     float: left;
+ }
+
+header li a{
+     margin-top: 10px;
+     display: block;
+     color: white;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+ }
+
+header ul h1{
+     float: left;
+     margin-top: 5px;
+     margin-right: 15px;
+     font-family: 'Times New Roman', Times, serif;
+     color: white;
+     border: 1px solid white;
+ }
+
+ .jumbotron{
+     background-color: #E9ECEF;
+ }
+
+.jumbotron h1{
+    text-align: center;
+}
+
+.jumbotron p{
+    text-align: center;
+}
+
+.jumbotron ul{
+    text-align: center;
+}
+
+.display-4{
+    color: red;
+}
+
+
